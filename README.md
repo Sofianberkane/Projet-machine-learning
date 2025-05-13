@@ -31,7 +31,6 @@ Ce projet utilise Python avec les bibliothèques suivantes :
 - `matplotlib`
 - `sklearn`
 - `pandas`
-- `seaborn` *(si utilisée pour les plots)*
 
 Pour installer les dépendances :
 ```bash
