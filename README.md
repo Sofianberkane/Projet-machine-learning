@@ -1,6 +1,6 @@
 # Analyse de réplicats transcriptomiques de cellules
 
-Ce projet Jupyter analyse trois réplicats de données transcriptomiques issues de cellules cancéreuses du sein de la lignée MDA-MB231. L'objectif principal est d'évaluer la **répétabilité des mesures** en utilisant des techniques de **réduction de dimension** (PCA) et de **classification non supervisée** (K-means).
+Ce projet Jupyter analyse trois réplicats de données transcriptomiques issues de cellules cancéreuses du sein de la lignée MDA-MB231. L'objectif principal est d'évaluer la **répétabilité des mesures** en utilisant des techniques de **réduction de dimension** (PCA) et de **classification** (K-means).
 
 ## 📁 Contenu du projet
 
